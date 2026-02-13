@@ -1,53 +1,48 @@
 ## Hey, this is us 👋
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries**. 🤯 But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system. 🪐 Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://github.com/Yaka-UI-Labs/.github/blob/main/profile/pro.png)
+---
+Yes, we are building the future of the web at **Yaka Labs**. We’ve been on a mission to rescue the internet from bloated legacy libraries since we pushed our very first commit. Since then, we've focused on making the web faster, interactive, and fun for the next generation of developers. 🤯 We are proud to prove that a 14-year-old developer can lead a movement that makes even the industry "Grandpas" take notice. 🦁 We are part of a global shift toward performance-first software.
 
 ### 🍿 An interconnected community
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+The open-source spirit is the 💗 heart of Yaka Labs and fundamental to how we build YakaJS today. See for yourself:
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
+* **YakaJS** has helped developers shed over **30KB** of legacy bloat in exchange for a **<5KB** powerhouse 🚀
+* Our community is proving that you don't need decades of experience to create tools that impact the ecosystem 🎸
+* **Every minute** a developer realizes that modern Vanilla JS APIs are better than 15-year-old wrappers 🏄
 
-Now that we are talking about the important things, ☝️ are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+Now that we are talking about the important things, ☝️ are you still using legacy jQuery in 2026? Yes? It's okay, we can help you get started with the **Underscore ( _ ) Magic**! Open source is built by people just like you. Learn more about [how to contribute to Yaka](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/YakaJS).
 
 ### 🦦 Contributing to the ecosystem
 
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+We contribute to the tools 🔧 we rely on to build and run Yaka Labs, while also maintaining 🧙‍♂️ our own open source projects like:
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [GitHub Desktop](https://github.com/desktop/desktop) - A visual approach to using Git with GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A Git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+* [YakaJS](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/YakaJS) - The blazing-fast, lightweight library that makes legacy code cry
+* [Yaka UI](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/Yaka-UI) - A modern design system for fast interfaces
+* [Yaka CLI](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/Yaka-CLI) - A command line tool to scaffold projects at lightning speed
+* [Yaka Documentation](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/docs) - Readable, modern docs for the bold
 
 ### 👓 Appendix
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers). 🙌
+See what's next on our [public roadmap](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/roadmap) ✨ and [let us know](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always looking for passionate developers to [join our labs](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/careers). 🙌
 
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced.</li>
-	</ul>
+<details>
+<summary>"Tell me more, I can't get enough!"</summary>
+
+<ul>
+<li>Yaka is built using mighty 🔨 open source technologies like <b>Vanilla JS</b>, <b>Web Speech API</b>, <b>Vibration API</b>, and <b>Haptic Engines</b>.</li>
+<li>The three open source concepts we love the most are:
+<ul>
+<li>Zero-Dependency Architecture</li>
+<li>Performance Optimization</li>
+<li>Interactive Animations</li>
+</ul>
+</li>
+<li>By the way, our <a href="[https://github.com/Yaka-UI-Labs/docs](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/docs)">documentation</a> 🤓 is also open sourced and actually fun to read.</li>
+</ul>
 </details>
 
----
+<h6>🤫 Psst! You are looking at the future of Sri Lankan Software Engineering.<h6>
 
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
 
-<!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
