@@ -28,7 +28,7 @@ We contribute to the tools 🔧 we rely on to build and run Yaka Labs, while als
 See what's next on our [public roadmap](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/roadmap) ✨ and [let us know](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always looking for passionate developers to [join our labs](https://www.google.com/search?q=https://github.com/Yaka-UI-Labs/careers). 🙌
 
 <details>
-<summary>"Tell me more, I can't get enough!"</summary>
+<summary>  "Tell me more, I can't get enough!"</summary>
 
 <ul>
 <li>Yaka is built using mighty 🔨 open source technologies like <b>Vanilla JS</b>, <b>Web Speech API</b>, <b>Vibration API</b>, and <b>Haptic Engines</b>.</li>
