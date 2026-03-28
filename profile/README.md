@@ -1,7 +1,6 @@
 ## Hey, this is us 👋
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://github.com/Yaka-UI-Labs/.github/blob/main/profile/pro.png)
 ---
-Yes, we are building the future of the web at **Tornado™ Labs**. We've been on a mission to rescue the internet from bloated legacy libraries since we pushed our very first commit — and we haven't stopped since. We've focused on making the web faster, interactive, and fun for the next generation of developers. 🤯 We are proud to prove that a small team can lead a movement that makes even the industry "Grandpas" take notice. 🦁 We are part of a global shift toward performance-first software.
+Yes, we are building the future of the web at **Blinnk**. We've been on a mission to rescue the internet from bloated legacy libraries since we pushed our very first commit — and we haven't stopped since. We've focused on making the web faster, interactive, and fun for the next generation of developers. 🤯 We are proud to prove that a small team can lead a movement that makes even the industry "Grandpas" take notice. 🦁 We are part of a global shift toward performance-first software.
 
 ### 🍿 An interconnected community
 The open-source spirit is the 💗 heart of Yaka Labs and fundamental to how we build YakaJS today. See for yourself:
